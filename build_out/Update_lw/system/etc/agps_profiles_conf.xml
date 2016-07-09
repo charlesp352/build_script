@@ -208,7 +208,7 @@
       default_profile="GOOGLE"
       disable_after_reboot="no"
       ni_request="no"
-      agps_enable="no"
+      agps_enable="yes"
       log_file_max_num="10"
       cp_gemini_pref_sim="1"
       network_used="0"
